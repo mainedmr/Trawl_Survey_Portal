@@ -9,17 +9,17 @@ The [Maine-New Hampshire Inshore Trawl Survey](https://www.maine.gov/dmr/science
 
 If you have any questions or would like additional data please contact Rebecca Peters at [rebecca.j.peters@maine.gov](mailto:rebecca.j.peters@maine.gov)
 
-# Technicalities
+### Technicalities
 
 * At present, abundance indicies for lobster, Northern shrimp, and spiny dogfish is incomplete.
 * Setting the theme of plots in Plot Controls is currently not working.
 
-## Planned enhancements
+#### Planned enhancements
 
 * Aggregated catch per grid cell (time series).
 * Better plot controls.
 * Enhanced temperature plots per region/stratum.
 
-## Bug Reports
+#### Bug Reports
 
 Found a bug or have an idea for an enhancement? [Submit an issue on GitHub](https://github.com/mainedmr/Trawl_Survey_Portal/issues)
