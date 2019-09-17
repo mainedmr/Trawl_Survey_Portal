@@ -11,7 +11,7 @@ If you have any questions or would like additional data please contact Rebecca P
 
 ### Technicalities
 
-* At present, abundance indicies for lobster, Northern shrimp, and spiny dogfish is incomplete.
+* At present, abundance indicies for lobster, Northern shrimp, and spiny dogfish are incomplete.
 * Setting the theme of plots in Plot Controls is currently not working.
 
 #### Planned enhancements
