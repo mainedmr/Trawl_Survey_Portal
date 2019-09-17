@@ -7,4 +7,19 @@ Welcome to the state of Maine Department of Marine Resources ME-NH Inshore Trawl
 
 The [Maine-New Hampshire Inshore Trawl Survey](https://www.maine.gov/dmr/science-research/projects/trawlsurvey/index.html) is a fishery-independent survey operated by Maine Department of Marine Resources. The survey is a collaborative partnership between commercial fishermen and state researchers to assess inshore fish stocks along the Maine and New Hampshire coasts. The survey occurs twice a year, in the spring and fall, and covers about 4500 square miles. A more detailed description and protocols for the survey can be found [here](https://www.maine.gov/dmr/science-research/projects/trawlsurvey/reports/documents/proceduresandprotocols.pdf)
 
-If you have any questions or would like additional data please contact Rebecca Peters at rebecca.j.peters@maine.gov
+If you have any questions or would like additional data please contact Rebecca Peters at [rebecca.j.peters@maine.gov](mailto:rebecca.j.peters@maine.gov)
+
+# Technicalities
+
+* At present, abundance indicies for lobster, Northern shrimp, and spiny dogfish is incomplete.
+* Setting the theme of plots in Plot Controls is currently not working.
+
+## Planned enhancements
+
+* Aggregated catch per grid cell (time series).
+* Better plot controls.
+* Enhanced temperature plots per region/stratum.
+
+## Bug Reports
+
+Found a bug or have an idea for an enhancement? [Submit an issue on GitHub](https://github.com/mainedmr/Trawl_Survey_Portal/issues)
