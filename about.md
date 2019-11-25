@@ -20,25 +20,23 @@ The ME-NH survey is a random stratified survey, seperated into four depth strata
 
 In the portal there are five tabs where data from the survey are summarized and displayed. 
 
-* The Species Indices tab displays the stratified mean catch (number/tow) and weight (kg/tow) of every species caught in the survey. There are selectors on the side to select a species and season to view these indices over time.
+* The **Species Indices** tab displays the stratified mean catch (number/tow) and weight (kg/tow) of every species caught in the survey. There are selectors on the side to select a species and season to view these indices over time. Note: All abundance and biomass indices are calculated using all four depth strata. If you need data for stock assessments please contact Rebecca Peters with a request
 
-* The Catch at Length tab shows the length frequency of each species caught in the survey over time. There are selectors on the side to select a species and season.
+* The **Catch at Length** tab shows the length frequency of each species caught in the survey over time. There are selectors on the side to select a species and season.
 
-* The Species Distribution Map displays the number of a selected species caught in each tow of a selected survey. You can hover over a dot to look at the number caught in that location. Black dots with x's in them indicate the selected species was not caught in that tow. If you click on a dot you can view the lengths of the selected species caught in that location. There are two map choices on this page: single survey (just displays one year of survey data), or time series (allows you to view average catch by survey sampling grid over a range of years). There are drop downs to allow you to select a specific species, survey, and year. You are also able to select the option to view number caught or catch weight (kg) in each location.
+* The **Species Distribution Map** displays the number of a selected species caught in each tow of a selected survey. You can hover over a dot to look at the number caught in that location. Black dots with x's in them indicate the selected species was not caught in that tow. If you click on a dot you can view the lengths of the selected species caught in that location. There are two map choices on this page: single survey (just displays one year of survey data), or time series (allows you to view average catch by survey sampling grid over a range of years). There are drop downs to allow you to select a specific species, survey, and year. You are also able to select the option to view number caught or catch weight (kg) in each location.
 
-* The Enviornmental Data tab allows you to view average temperature in the survey over time. You are able to select between spring and fall.
+* The **Enviornmental Data** tab allows you to view average temperature in the survey over time. You are able to select between spring and fall.
 
-* The View/Download Raw Data tab allows you to view data collected from the survey. There are four choices to view: Tows, Catch, Abundance, and Catch at Length. The tows option allows you to view general information for each tow of each survey. Some data in this tab includes GPS data, bottom and surface water temperature, bottom and surface salinity, start and end depth, and tow length. The catch tab allows you to view the catch from each tow from each survey. The abundance tab provides the stratified mean catch and mean weight along with standard error for each species from each survey. The catch at length tabs provides data on the lengths sampled for each species from each survey. You are able to download this data and use it for anlaysis, but if you do so and have not identified this in the form for access to this portal please send an email to Rebecca Peters with a descprition of what you plan to use the data for.
+* The **View/Download Raw Data** tab allows you to view data collected from the survey. There are four choices to view: Tows, Catch, Abundance, and Catch at Length. The tows option allows you to view general information for each tow of each survey. Some data in this tab includes GPS data, bottom and surface water temperature, bottom and surface salinity, start and end depth, and tow length. The catch tab allows you to view the catch from each tow from each survey. The abundance tab provides the stratified mean catch and mean weight along with standard error for each species from each survey. The catch at length tabs provides data on the lengths sampled for each species from each survey. You are able to download this data and use it for anlaysis, but if you do so and have not identified this in the form for access to this portal please send an email to Rebecca Peters with a descprition of what you plan to use the data for.
 
 
 If you have any questions or would like additional data please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html).
 
-#### Note: All abundance and biomass indices are calculated using all four depth strata. If you need data for stock assessments please contact Rebecca Peters with a request.
 
 ### Technicalities
 
 * At present, abundance indicies for lobster, Northern shrimp, and spiny dogfish are incomplete.
-* Setting the theme of plots in Plot Controls is currently not working.
 
 #### Planned enhancements
 
