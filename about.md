@@ -21,7 +21,7 @@ The ME-NH survey is a random stratified survey, seperated into four depth strata
 
 In the portal there are five tabs where data from the survey are summarized and displayed. 
 
-* The **Species Indices** tab displays the stratified mean catch (number/tow) and weight (kg/tow) of every species caught in the survey. There are selectors on the side to select a species and season to view these indices over time. Note: All abundance and biomass indices are calculated using all four depth strata. If you need specific data for stock assessments please contact Rebecca Peters with a request.
+* The **Species Indices** tab displays the stratified mean catch (number/tow) and weight (kg/tow) of every species caught in the survey. There are selectors on the side to select a species and season to view these indices over time. _Note: All abundance and biomass indices are calculated using all four depth strata. If you need specific data for stock assessments please contact Rebecca Peters with a request._
 
 * The **Catch at Length** tab shows the length frequency of each species caught in the survey over time. There are selectors on the side to select a species and season.
 
