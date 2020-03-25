@@ -29,17 +29,9 @@ In the portal there are five tabs where data from the survey are summarized and 
 
 * The **Maturity Data** tab shows data on sex and maturity stage collected on a select species of finfish sampled in the spring and fall surveys. There are only select species sampled depending on the season of the survey. The table below describes which species are sampled each season. When you are on this tab you will have to pick the correct season in which the species is sampled to view the data. If now graph shows up when you select a specific species, survey, and year this means there is no data for that species in that season or year. Check this table to make sure you have the correct season selected for the species of interest. All maturity staging follows protocols from Burnett et al. 1989.
 
-
-| **Spring** | **Fall** |
-| --- | --- |
-| Atlantic cod | Atlantic cod |
-| Haddock | Haddock |
-| Monkfish | Monkfish |
-| Atlantic halibut | Atlantic halibut |
-| American plaice | White hake |
-| Winter flounder | Witch flounder |
-| Yellowtail flounder |  |
-
+<p align="center">
+<img width="250" height="200" src="https://github.com/mainedmr/Trawl_Survey_Portal/raw/master/Images/Species_Maturity_list.jpg">
+</p>
 
 * The **Enviromental Data** tab allows you to view average temperature in the survey over time. You are able to select between spring and fall.
 
