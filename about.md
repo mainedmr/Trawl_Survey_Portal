@@ -27,9 +27,23 @@ In the portal there are five tabs where data from the survey are summarized and 
 
 * The **Species Distribution Map** displays the number of a selected species caught in each tow of a selected survey. You can hover over a dot to look at the number caught in that location. Black dots with x's in them indicate the selected species was not caught in that tow. If you click on a dot you can view the lengths of the selected species caught in that location. There are two map choices on this page: single survey (just displays one year of survey data), or time series (allows you to view average catch by survey sampling grid over a range of years). There are drop downs to allow you to select a specific species, survey, and year. You are also able to select the option to view number caught or catch weight (kg) in each location.
 
+* The **Maturity Data** tab shows data on sex and maturity stage collected on a select species of finfish sampled in the spring and fall surveys. There are only select species sampled depending on the season of the survey. The table below describes which species are sampled each season. When you are on this tab you will have to pick the correct season in which the species is sampled to view the data. If now graph shows up when you select a specific species, survey, and year this means there is no data for that species in that season or year. Check this table to make sure you have the correct season selected for the species of interest. All maturity staging follows protocols from Burnett et al. 1989.
+
+<center>
+**Spring** | **Fall**
+---| --- | ---
+Atlantic cod | Atlantic cod
+Haddock | Haddock
+Monkfish | Monkfish
+Atlantic halibut | Atlantic halibut
+American plaice | White hake
+Winter flounder | Witch flounder
+Yellowtail flounder | 
+</center>
+
 * The **Enviromental Data** tab allows you to view average temperature in the survey over time. You are able to select between spring and fall.
 
-* The **Download Raw Data** tab allows you to view and download data collected from the survey ONLY if you received proper permissions to download the data. If you are signed in as a public user then you do not have access to this page. There are five choices to view and download: Tow Data, Catch Data, Length Data, Lobster Length Data, and Maturity Data. The Tow Data option allows you to view general information for each tow of each survey. Some data in this tab includes GPS data, bottom and surface water temperature, bottom and surface salinity, start and end depth, and tow length. The Catch Data tab allows you to view the standardized catch (labeled as expanded_catch and expanded_weight) from each tow from each survey. You will also see a column labeled Number Caught and weight kg. These columns are the raw (not standardized catch and weight of each species). The Length Data and Lobster Length Data include the lengths, measurement unit, and standardized frequency of each length caught for each species in each tow of the surveys. The standardized frequency accounts for any subsample and tow length under or over 20 minutes. The Maturity Data includes data on maturity on the species we select each survey to take sex and maturity information from. To stage maturity we follow Burnett et al. 1989. Our stages are Immature (I), Developing (D), Ripe (R), Ripe and Running (U), Spent (S), and Resting (T).
+* The **Download Raw Data** tab allows you to view and download data collected from the survey ONLY if you received proper permissions to download the data. If you are signed in as a public user then you do not have access to this page. There are five choices to view and download: Tow Data, Catch Data, Length Data, Lobster Length Data, and Maturity Data. The Tow Data option allows you to view general information for each tow of each survey. Some data in this tab includes GPS data, bottom and surface water temperature, bottom and surface salinity, start and end depth, and tow length. The Catch Data tab allows you to view the standardized catch (labeled as expanded_catch and expanded_weight) from each tow from each survey. You will also see a column labeled Number Caught and weight kg. These columns are the raw (not standardized catch and weight of each species). The Length Data and Lobster Length Data include the lengths, measurement unit, and standardized frequency of each length caught for each species in each tow of the surveys. The standardized frequency accounts for any subsample and tow length under or over 20 minutes. The Maturity Data includes data on maturity on the species we select each survey to take sex and maturity information from. To stage maturity we follow Burnett et al. 1989. Our stages are Immature (I), Developing (D), Ripe ( R), Ripe and Running (U), Spent (S), and Resting (T).
 
 
 If you have any questions or would like additional data please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html).
