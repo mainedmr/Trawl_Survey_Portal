@@ -43,7 +43,7 @@ If you have any questions or would like additional data please contact [Rebecca 
 
 ### Technicalities
 
-* At present, catch at length indices for Northern shrimp and spiny dogfish are incomplete.
+* At present, catch at length indices for Northern shrimp are incomplete.
 
 #### Bug Reports
 
