@@ -44,7 +44,8 @@ If you have any questions or would like additional data please contact [Rebecca 
 
 ### Technicalities
 
-* At present, catch at length indices for Northern shrimp are incomplete.
+* At present, catch at length indices by sex for Northern shrimp are incomplete.
+* In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey). We do not recommend using the whole time series for average temperature as it is displayed here. Please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html) if you have any questions.
 
 #### Bug Reports
 
