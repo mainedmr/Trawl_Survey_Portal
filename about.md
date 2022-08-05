@@ -3,7 +3,8 @@
 
 Welcome to the state of Maine Department of Marine Resources ME-NH Inshore Trawl Survey Data Portal. This portal contains summary results from the survey. You will find graphs of abundance and biomass indices and length frequency for each species over the survey time period. Environmental data collected on the survey is also available along with maps depicting the spatial distribution of catch in each survey.
 
-**For spring 2021 temperature data please contact rebecca.j.peters@maine.gov**
+**For temperature data and spring 2022 data please contact rebecca.j.peters@maine.gov**
+**In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey).**
 
 ### About the survey
 
