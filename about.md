@@ -8,7 +8,7 @@ Welcome to the state of Maine Department of Marine Resources ME-NH Inshore Trawl
 
 ### About the survey
 
-The [Maine-New Hampshire Inshore Trawl Survey](https://www.maine.gov/dmr/science-research/projects/trawlsurvey/index.html) is a fishery-independent survey operated by Maine Department of Marine Resources that started in the fall of 2000. The survey is a collaborative partnership between commercial fishermen and state researchers to assess inshore fish stocks along the coast of Maine and New Hampshire. The survey occurs twice a year, in the spring and fall, and covers about 4500 square miles. A more detailed description and protocols for the survey can be found [here](https://www.maine.gov/dmr/science-research/projects/trawlsurvey/reports/documents/proceduresandprotocols.pdf). Reports and publications from the ME-NH trawl survey can be accessed [here](https://www.maine.gov/dmr/science-research/projects/trawlsurvey/reports/index.html).
+The [Maine-New Hampshire Inshore Trawl Survey](https://www.maine.gov/dmr/science/fisheries-monitoring-assessment/maine-new-hampshire-inshore-trawl-survey) is a fishery-independent survey operated by Maine Department of Marine Resources that started in the fall of 2000. The survey is a collaborative partnership between commercial fishermen and state researchers to assess inshore fish stocks along the coast of Maine and New Hampshire. The survey occurs twice a year, in the spring and fall, and covers about 4500 square miles. A more detailed description and protocols for the survey can be found [here](https://www.maine.gov/dmr/sites/maine.gov.dmr/files/docs/proceduresandprotocols.pdf). Reports and publications from the ME-NH trawl survey can be accessed [here](https://www.maine.gov/dmr/science/fisheries-monitoring-assessment/maine-new-hampshire-inshore-trawl-survey-data-dashboard).
 
 #### Survey Design
 
@@ -45,7 +45,6 @@ If you have any questions or would like additional data please contact [Rebecca 
 
 ### Technicalities
 
-* At present, catch at length indices by sex for Northern shrimp are incomplete.
 * In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey). We do not recommend using the whole time series for average temperature as it is displayed here. Please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html) if you have any questions.
 
 #### Bug Reports
