@@ -3,7 +3,7 @@
 
 Welcome to the state of Maine Department of Marine Resources ME-NH Inshore Trawl Survey Data Portal. This portal contains summary results from the survey. You will find graphs of abundance and biomass indices and length frequency for each species over the survey time period. Environmental data collected on the survey is also available along with maps depicting the spatial distribution of catch in each survey.
 
-**For temperature data and spring 2022 data please contact rebecca.j.peters@maine.gov**
+**For temperature data and spring 2022 data please contact Robyn.Linner@maine.gov**
 **In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey).**
 
 ### About the survey
@@ -35,17 +35,17 @@ In the portal there are five tabs where data from the survey are summarized and 
 <img width="300" height="200" src="https://github.com/mainedmr/Trawl_Survey_Portal/raw/master/Images/Species_Maturity_list.jpg">
 </p>
 
-* The **Enviromental Data** tab allows you to view average temperature in the survey over time. You are able to select between spring and fall. **for spring data please contact Rebecca Peters (rebecca.j.peters@maine.gov).**
+* The **Enviromental Data** tab allows you to view average temperature in the survey over time. You are able to select between spring and fall. **for spring data please contact Robyn Linner (Robyn.Linner@maine.gov).**
 
 * The **Download Raw Data** tab allows you to view and download data collected from the survey ONLY if you received proper permissions to download the data. If you are signed in as a public user then you do not have access to this page. There are five choices to view and download: Tow Data, Catch Data, Length Data, Lobster Length Data, and Maturity Data. The Tow Data option allows you to view general information for each tow of each survey. Some data in this tab includes GPS data, bottom and surface water temperature, bottom and surface salinity, start and end depth, and tow length. The Catch Data tab allows you to view the standardized catch (labeled as expanded_catch and expanded_weight) from each tow from each survey. You will also see a column labeled Number Caught and weight kg. These columns are the raw (not standardized catch and weight of each species). The Length Data and Lobster Length Data include the lengths, measurement unit, and standardized frequency of each length caught for each species in each tow of the surveys. The standardized frequency accounts for any subsample and tow length under or over 20 minutes. The Maturity Data includes data on maturity on the species we select each survey to take sex and maturity information from. To stage maturity we follow Burnett et al. 1989. Our stages are Immature (I), Developing (D), Ripe ( R), Ripe and Running (U), Spent (S), and Resting (T).
 
 
-If you have any questions or would like additional data please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html).
+If you have any questions or would like additional data please contact [Robyn Linner](https://www.maine.gov/dmr/about/employees.html).
 
 
 ### Technicalities
 
-* In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey). We do not recommend using the whole time series for average temperature as it is displayed here. Please contact [Rebecca Peters](https://www.maine.gov/dmr/about/employees.html) if you have any questions.
+* In the spring of 2022 we had a delay in the first two regions of the survey. Regions 3, 4, and 5 were completed around the same time as previous years. Regions 1 and 2 were delayed by about four weeks (they were completed after the original end date of the survey). We do not recommend using the whole time series for average temperature as it is displayed here. Please contact [Robyn Linner](https://www.maine.gov/dmr/about/employees.html) if you have any questions.
 
 #### Bug Reports
 
